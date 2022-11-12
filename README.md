@@ -1,5 +1,7 @@
 # restaurant_system_backend
 
+Nodejs/typescript
+
 x - Cadastrar um novo usuário                                                                     
 x - Logar um usuário                                                                     
 x - Verificar autenticação para rotas privadas                                                                     
